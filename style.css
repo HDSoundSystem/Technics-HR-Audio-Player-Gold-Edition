@@ -1061,8 +1061,8 @@ button i {
 }
 
 .spectrum-freq-labels span {
-    font-family: 'Inter', sans-serif;
-    font-size: 7px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 9px;
     font-weight: 500;
     color: var(--vfd-main);
 
@@ -1102,8 +1102,8 @@ button i {
 .vu-db-scale span {
     position: absolute;
     transform: translateX(-50%);
-    font-family: 'Inter', sans-serif;
-    font-size: 8px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 9px;
     font-weight: 500;
     color: var(--vfd-main);
 
